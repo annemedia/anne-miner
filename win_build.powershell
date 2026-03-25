@@ -1,0 +1,3 @@
+# The version 5.02 corresponds to Windows Server 2003/Windows XP 64-bit, which ensures compatibility with Windows 10 and later
+$env:RUSTFLAGS="-C link-args=/SUBSYSTEM:CONSOLE,5.02"
+cargo build --release
