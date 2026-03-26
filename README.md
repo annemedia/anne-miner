@@ -193,7 +193,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ## Acknowledgements
 
-ANNE Miner builds on the work of many open‑source contributors. The codebase originated with the PoC Consortium (Burstcoin), was later maintained by the Signum Network, and subsequently adapted by the ANNE Network. This version, with the features listed in these release notes, reflects a collaborative effort between the ANNE Network and ANNE Media, and is now maintained by ANNE Media, with significant enhancements, optimizations, and security improvements tailored to the ANNE ecosystem.
+ANNE Miner builds on the work of many open‑source contributors. The codebase originated with the PoC Consortium (Burstcoin), was later maintained by the Signum Network, and subsequently adapted by the ANNE Network. This version, with the features listed above, reflects a collaborative effort between the ANNE Network and ANNE Media, with significant enhancements, optimizations, and security improvements tailored to the ANNE ecosystem, and is now maintained by ANNE Media.
 
 - Signum Network Miner – [signum-miner](https://github.com/signum-network/signum-miner)
 - ANNE Official – [anne.network](https://anne.network)
