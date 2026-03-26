@@ -26,7 +26,7 @@ category = "Utility"
 icon = ["assets/anneminer.icns"]
 minimum_system_version = "10.15"
 app_category = "public.app-category.utilities"
-copyright = "Copyright © 2025 ANNE Network"
+copyright = "Public Domain"
 
 
 [dependencies]
